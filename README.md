@@ -4,7 +4,7 @@ Hi 👋 My name is Sara
 Front End Designer & Developer
 ------------------------------
 
-I have been addicted to the web since 1998 and am finally working towards making my hobby-level web development abilities more modern, accessible, interactive and productive, in order to pivot my career.
+I have been addicted to the web since 1998 and am finally working towards making my hobby-level web development abilities more modern, accessible, interactive and productive.
 
 I'm already pretty solid (though there is always more to learn!) in HTML, CSS and JavaScript.
 
@@ -51,8 +51,16 @@ I love CSS and I love responsive design :)
 ### Socials
 
 <p align="left">
-<a href="https://www.codepen.io/sarajw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/sarajw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/sarawallen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/sarajwallen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+  <a href="https://www.codepen.io/sarajw" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.github.com/sarajw" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarawallen" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitter.com/sarajwallen" target="_blank" rel="noreferrer"
+     ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a> 
 </p>
