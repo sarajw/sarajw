@@ -6,8 +6,6 @@ Front End Designer & Developer
 
 I have been addicted to the web since 1998 and am finally working towards making my hobby-level web development abilities more modern, accessible, interactive and productive.
 
-I'm already pretty solid (though there is always more to learn!) in HTML, CSS and JavaScript.
-
 I love CSS and I love responsive design :)
 
 *   🌍  I'm based in Hamburg, Germany
@@ -29,7 +27,7 @@ I love CSS and I love responsive design :)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
   </a> 
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="32" height="36" alt="Svelte" />
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" height="36" alt="PHP" />
@@ -44,7 +42,7 @@ I love CSS and I love responsive design :)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36" height="36" alt="Illustrator" />
   </a> 
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="36" height="36" alt="Premiere Pro" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" />
   </a>
 </p>
 
@@ -64,3 +62,6 @@ I love CSS and I love responsive design :)
      ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a> 
 </p>
+
+<a
+href="http://www.github.com/sarajw"><img src="https://activity-graph.herokuapp.com/graph?username=sarajw&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
