@@ -42,7 +42,7 @@ I love CSS and I love responsive design :)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36" height="36" alt="Illustrator" />
   </a> 
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="36" height="36" alt="Premiere Pro" />
   </a>
 </p>
 
