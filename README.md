@@ -9,9 +9,7 @@ I have been addicted to the web since 1998 and am finally working towards making
 I love CSS and I love responsive design :)
 
 *   🌍  I'm based in Hamburg, Germany
-*   🖥️  See my landing page at [sarawallen.com](https://sarawallen.com)
-*   📰  See my blog and portfolio at [blog.sarawallen.com](https://blog.sarawallen.com)
-*   ✉️  You can contact me at [dev@sarawallen.com](mailto:dev@sarawallen.com)
+*   🖥️  See my landing page, blog and portfolio at [sarajoy.dev](https://sarajoy.dev)
 *   🧠  I'm learning how to harness the power of frameworks
 
 ### Skills
