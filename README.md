@@ -8,7 +8,6 @@ I have been addicted to the web since 1998 and have been making my previously ho
 
 I love CSS and I love responsive design :)
 
-*   🌍  I'm based in Hamburg, Germany
 *   🖥️  See my landing page, blog and portfolio at [sarajoy.dev](https://sarajoy.dev)
 *   🧠  I'm learning lots in my first front-end developer job :)
 
