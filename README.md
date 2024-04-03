@@ -1,15 +1,15 @@
-Hi 👋 My name is Sara
-=====================
+Sara Joy
+========
 
-Front End Developer
--------------------
+Fronty-Front End Developer
+--------------------------
 
 I have been addicted to the web since 1998 and have been making my previously hobby-level web development abilities more modern, accessible, interactive and productive.
 
 I love CSS and I love responsive design :)
 
 *   🖥️  See my landing page, blog and portfolio at [sarajoy.dev](https://sarajoy.dev)
-*   🧠  I'm learning lots in my first front-end developer job :)
+*   🧠  My brain is ever expanding with learnings 🤯
 
 ### Skills
 
